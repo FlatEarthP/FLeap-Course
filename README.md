@@ -21,10 +21,10 @@ Data geospatial merupakan komponen penting dalam melakukan analisa dan visualisa
 
 Salah satu alternatif lain dalam melakukan pemrosesan dan visualisasi data tersebut adalah dengan menggunakan bahasa pemrogaman Python ataupun R.
 
-### Pengenalan Pandas Dataframe dan Spatial GeoDataframe
+### 1. Pengenalan Pandas Dataframe dan Spatial GeoDataframe
 Pada workshop ini kita akan belajar metode dasar untuk bekerja dengan data Geospatial menggunakan Python menggunakan library [Geopandas](https://geopandas.org). Namun sebelum itu kita juga akan belajar menggunakan library yang populer untuk bekerja dengan data tabular yaitu [Pandas](https://pandas.pydata.org).
 
-### Pemrosesan data Geospatial (Geoprocessing) dan Visualisasi Data Spatial
+### 2. Pemrosesan data Geospatial (Geoprocessing) dan Visualisasi Data Spatial
 Pada bagian kedua ini kita juga akan belajar untuk melakukan analisa spasial menggunakan library yang ada di Geopandas serta melakukan visualisasi terhadap data spatial tersebut.
 
 ### PraSyarat

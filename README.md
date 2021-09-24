@@ -1,10 +1,10 @@
 ## Hello World FLeap
 
-FLeap merupakan merupakan singkatan dari 'Flat Earth Project'; FLeap didirikan sebagai alternatif bagi semua orang khususnya di Indonesia untuk dapat mengetahui dan belajar lebih banyak mengenai Spatial Science.
+<p> FLeap merupakan merupakan singkatan dari 'Flat Earth Project'; FLeap didirikan sebagai alternatif bagi semua orang khususnya di Indonesia untuk dapat mengetahui dan belajar lebih banyak mengenai Spatial Science. <p>
 
 ### What it's All About??
 
-Menilik dari beberapa tahun kebelakang profesi sebagai Data Analyst ataupun Data Scientist menjadi salah satu profesi yang sangat populer dengan begitu banyaknya lowongan pekerjaan terhadap bidang tersebut. Lalu apakah profesi Data Analystnatau Data Scientist ini ada kaitan-nya dengan Spatial? Salah satu profesi yang bisa anda tekuni apabila anda memiliki ketertarikan dengan bidang Spatial adalah menjadi Spatial Data Analyst ataupun Spatial Data Scientist
+<p> Menilik dari beberapa tahun kebelakang profesi sebagai Data Analyst ataupun Data Scientist menjadi salah satu profesi yang sangat populer dengan begitu banyaknya lowongan pekerjaan terhadap bidang tersebut. Lalu apakah profesi Data Analystnatau Data Scientist ini ada kaitan-nya dengan Spatial? Salah satu profesi yang bisa anda tekuni apabila anda memiliki ketertarikan dengan bidang Spatial adalah menjadi Spatial Data Analyst ataupun Spatial Data Scientist. <p>
 
 ```markdown
 Syntax highlighted code block

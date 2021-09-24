@@ -28,7 +28,7 @@ Pada workshop ini kita akan belajar metode dasar untuk bekerja dengan data Geosp
 Pada bagian kedua ini kita juga akan belajar untuk melakukan analisa spasial menggunakan library yang ada di Geopandas serta melakukan visualisasi terhadap data spatial tersebut.
 
 ## PraSyarat
-Pada Workshop ini anda akan diberikan panduan bagaimana untuk melakukan instalasi Python beserta pengaturan environment-nya, atau sebagai alternatif anda juga dapat mengikuti workshop ini menggunakan [google colab)(https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index)
+Pada Workshop ini anda akan diberikan panduan bagaimana untuk melakukan instalasi Python beserta pengaturan environment-nya, atau sebagai alternatif anda juga dapat mengikuti workshop ini menggunakan [google colab](https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index)
 
 
 ### Support or Contact

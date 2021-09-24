@@ -1,41 +1,19 @@
-## Hello World FLeap
-
-FLeap merupakan merupakan singkatan dari 'Flat Earth Project'; FLeap didirikan sebagai alternatif bagi semua orang khususnya di Indonesia untuk dapat mengetahui dan belajar 
-
-lebih banyak mengenai Spatial Science.
-
+## Hello World FLeaP
 ### What it's All About??
 
-Menilik dari beberapa tahun kebelakang profesi sebagai Data Analyst ataupun Data Scientist menjadi salah satu profesi yang sangat populer dengan begitu banyaknya lowongan 
+Menilik dari beberapa tahun kebelakang, profesi sebagai Data Analyst ataupun Data Scientist menjadi salah satu profesi yang sangat populer. Merujuk pada website glassdor [Go to the Support Web Site](https://www.glassdoor.com/List/Best-Jobs-in-America-LST_KQ0,20.htm) profesi  Data Scientist dan Data Analyst ada di 50 besar top profesi di Amerika Serikat pada tahun 2021.
 
-pekerjaan terhadap bidang tersebut. Lalu apakah profesi Data Analystnatau Data Scientist ini ada kaitan-nya dengan Spatial? Salah satu profesi yang bisa anda tekuni apabila anda 
+Lalu apa kaitan-nya dengan Spatial? Jika anda memiliki minat dalam bidang Spatial/Sistem Informasi Geografis (SIG/GIS) maka mungkin anda akan tertarik untuk meniti karir sebagai Spatial Data Scientist ataupun Spatial Data Analyst. FLeaP merupakan kepanjangan dari Flat Earth Project dibuat sebagai media untuk belajar lebih jauh berkaitan dengan Teknologi Spatial melalui Python, R dan juga SQL.
 
-memiliki ketertarikan dengan bidang Spatial adalah menjadi Spatial Data Analyst ataupun Spatial Data Scientist.
+### What Do you need to be Spatial Data Scientist Experts?
 
-```markdown
-Syntax highlighted code block
+Komitmen merupakan kunci utama untuk mencapai kesuksesan dalam hal apapun, FleaP berkomitmen untuk menjadi media bagi siapapun yang ingin mengetahui dan belajar lebih jauh mengenai Spatial Data Science. FLeaP memiliki program  mini workshop terkait Spatial Data Science yang fokus pada pengolahan data spatial, visualisasi data spasial dan analisa spatial. Apakah mini workshop yang akan dihadirkan oleh FLeaP berbayar? Saat ini kami berkomitmen untuk dapat menghadirkan pembelajaran terkait Spatial Data Science dengan sebaik mungkin merujuk kepada kurikulum yang diadopsi oleh beberapa Universitas dan merujuk kepada kebutuhan dalam Industri bidang spatial, sehingga Workshop yang akan dihadirkan oleh FleaP adalah berbayar. Namun apabila anda kesulitan dalam kaitan-nya dengan finansial maka hubungi kami untuk berdiskusi lebih lanjut untuk memungkinkan bagi anda dapat mengikuti mini workshop oleh FLeaP dengan harga tertentu.
 
-# Header 1
+# Mini Workshop FLeaP 1 Spatial Data Science Introduction: Fundamental Spatial in Python
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FlatEarthP/FLeap-Course/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Apabila anda memerlukan bantuan ataupun informasi terkait Workshop yang akan diadakan oleh FLeap hubungi kami di fleap.project@gmail.com

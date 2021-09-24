@@ -31,6 +31,7 @@ Pada bagian kedua ini kita juga akan belajar untuk melakukan analisa spasial men
 Pada Workshop ini anda akan diberikan panduan bagaimana untuk melakukan instalasi Python beserta pengaturan environment-nya, atau sebagai alternatif anda juga dapat mengikuti workshop ini menggunakan [google colab](https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index)
 
 
-### Support or Contact
+#### Support or Contact
 
-fleap.project@gmail.com wa: +6282144016796
+email: fleap.project@gmail.com 
+wa: +6282144016796

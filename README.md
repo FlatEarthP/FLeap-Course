@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## Hello World FLeap
 
-You can use the [editor on GitHub](https://github.com/FlatEarthP/FLeap-Course/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+FLeap merupakan merupakan singkatan dari 'Flat Earth Project'; FLeap didirikan sebagai alternatif bagi semua orang khususnya di Indonesia untuk dapat mengetahui dan belajar lebih banyak mengenai Spatial Science.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What it's All About??
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Menilik dari beberapa tahun kebelakang profesi sebagai <b> Data Analyst <b> ataupun <b> Data Scientist <b> menjadi salah satu profesi yang sangat populer dengan begitu banyaknya lowongan pekerjaan terhadap bidang tersebut. Lalu apakah profesi <b> Data Analyst <b> atau <b> Data Scientist <b> ini ada kaitan-nya dengan Spatial? Salah satu profesi yang bisa anda tekuni apabila anda memiliki ketertarikan dengan bidang Spatial adalah menjadi <b> Spatial Data Analyst <b> ataupun <b> Spatial Data Scientist <b>.
 
 ```markdown
 Syntax highlighted code block

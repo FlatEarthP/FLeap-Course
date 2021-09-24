@@ -1,7 +1,7 @@
 # Hello World FLeaP
 ## What it's All About??
 
-Menilik dari beberapa tahun kebelakang, profesi sebagai Data Analyst ataupun Data Scientist menjadi salah satu profesi yang sangat populer. Merujuk pada website [glassdor] (https://www.glassdoor.com/List/Best-Jobs-in-America-LST_KQ0,20.htm) profesi  Data Scientist dan Data Analyst ada di 50 besar top profesi di Amerika Serikat pada tahun 2021.
+Menilik dari beberapa tahun kebelakang, profesi sebagai Data Analyst ataupun Data Scientist menjadi salah satu profesi yang sangat populer. Merujuk pada website [glassdor](https://www.glassdoor.com/List/Best-Jobs-in-America-LST_KQ0,20.htm) profesi  Data Scientist dan Data Analyst ada di 50 besar top profesi di Amerika Serikat pada tahun 2021.
 
 Lalu apa kaitan-nya dengan Spatial? Jika anda memiliki minat dalam bidang Spatial/Sistem Informasi Geografis (SIG/GIS) maka mungkin anda akan tertarik untuk meniti karir sebagai Spatial Data Scientist ataupun Spatial Data Analyst. FLeaP merupakan kepanjangan dari Flat Earth Project dibuat sebagai media untuk belajar lebih jauh berkaitan dengan Teknologi Spatial melalui Python, R dan juga SQL.
 

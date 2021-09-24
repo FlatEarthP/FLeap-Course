@@ -1,4 +1,4 @@
-# Hello World FLeaP
+
 ## What it's All About??
 
 Menilik dari beberapa tahun kebelakang, profesi sebagai Data Analyst ataupun Data Scientist menjadi salah satu profesi yang sangat populer. Merujuk pada website [glassdor](https://www.glassdoor.com/List/Best-Jobs-in-America-LST_KQ0,20.htm) profesi  Data Scientist dan Data Analyst ada di 50 besar top profesi di Amerika Serikat pada tahun 2021.
@@ -27,7 +27,7 @@ Pada workshop ini kita akan belajar metode dasar untuk bekerja dengan data Geosp
 ### Pemrosesan data Geospatial (Geoprocessing) dan Visualisasi Data Spatial
 Pada bagian kedua ini kita juga akan belajar untuk melakukan analisa spasial menggunakan library yang ada di Geopandas serta melakukan visualisasi terhadap data spatial tersebut.
 
-## PraSyarat
+### PraSyarat
 Pada Workshop ini anda akan diberikan panduan bagaimana untuk melakukan instalasi Python beserta pengaturan environment-nya, atau sebagai alternatif anda juga dapat mengikuti workshop ini menggunakan [google colab](https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index)
 
 

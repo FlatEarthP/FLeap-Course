@@ -1,4 +1,4 @@
-# FLeaP Rpad Map 2 Spatial Data Science
+# FLeaP Road Map 2 Spatial Data Science
 ## What it's All About??
 
 Menilik dari beberapa tahun kebelakang, profesi sebagai Data Analyst ataupun Data Scientist menjadi salah satu profesi yang sangat populer. Merujuk pada website [glassdor](https://www.glassdoor.com/List/Best-Jobs-in-America-LST_KQ0,20.htm) profesi  Data Scientist dan Data Analyst ada di 50 besar top profesi di Amerika Serikat pada tahun 2021.
